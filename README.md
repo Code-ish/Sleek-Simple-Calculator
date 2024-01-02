@@ -8,6 +8,6 @@ Allows for use of numpad!
 
 Interpreter parses string equations.
 
-backspack = clears the terminal
+backspace = clears the terminal
 
 enter = SUM
